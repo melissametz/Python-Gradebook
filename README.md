@@ -38,7 +38,7 @@ You are a student and you are trying to organize your subjects and grades using 
 
     ```Python 
     [['physics', 98], ['calculus', 97], ['poetry', 85], ['history', 88]]
-```
+    ```
 #### Add More Subjects:
 5. Your grade for your computer science class just came in! You got a perfect score, 100!
 
@@ -62,6 +62,6 @@ You are a student and you are trying to organize your subjects and grades using 
 #### One Big Gradebook!
 10. You also have your grades from last semester, stored in `last_semester_gradebook`.
 
-    Create a new variable `full_gradebook` that combines both `last_semester_gradebook` and `gradebook` using `+` to have one complete grade book.
+    Create a new variable `full_gradebook` that combines both `last_semester_gradebook` and `gradebook` using + to have one complete grade book.
 
     Print `full_gradebook` to see our completed list.
