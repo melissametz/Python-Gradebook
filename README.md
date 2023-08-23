@@ -31,13 +31,13 @@ You are a student and you are trying to organize your subjects and grades using 
 
 4. Print `gradebook`.
 
-Does it look how you expected it would?
+    Does it look how you expected it would?
 
-Hint
-The output should look like this:
+    Hint
+    The output should look like this:
 
-```Python 
-[['physics', 98], ['calculus', 97], ['poetry', 85], ['history', 88]]
+    ```Python 
+    [['physics', 98], ['calculus', 97], ['poetry', 85], ['history', 88]]
 ```
 #### Add More Subjects:
 5. Your grade for your computer science class just came in! You got a perfect score, 100!
@@ -46,7 +46,7 @@ The output should look like this:
 
 6. Your grade for "visual arts" just came in! You got a 93!
 
-    Use `append` to add ["visual arts", 93] to `gradebook`.
+    Use `append` to add `["visual arts", 93]` to `gradebook`.
 
 #### Modify The Gradebook:
 7. Our instructor just told us they made a mistake grading and are rewarding an extra 5 points for our visual arts class.
@@ -62,6 +62,6 @@ The output should look like this:
 #### One Big Gradebook!
 10. You also have your grades from last semester, stored in `last_semester_gradebook`.
 
-    Create a new variable `full_gradebook` that combines both `last_semester_gradebook` and `gradebook` using + to have one complete grade book.
+    Create a new variable `full_gradebook` that combines both `last_semester_gradebook` and `gradebook` using `+` to have one complete grade book.
 
     Print `full_gradebook` to see our completed list.
